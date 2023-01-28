@@ -42,3 +42,7 @@ npm install
 ```sh
 npm start
 ```
+{
+  "email": "test@gmail.com",
+  "password": "qwe3002950"
+}
